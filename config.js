@@ -1,8 +1,0 @@
-const JWT_SECRET = "secr3t";
-const JWT_ADMIN_SECRET="secr3ts";
-
-
-module.exports={
-JWT_SECRET:JWT_SECRET,
-JWT_ADMIN_SECRET:JWT_ADMIN_SECRET
-}

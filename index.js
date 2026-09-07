@@ -13,7 +13,7 @@ app.use("/course", courseRouter);
 // createUserRoutes(app);
 // createCourseRoutes(app);
 async function main(){
-    await mongoose.connect("mongodb+srv://jashanps0909_db_user:BTtqmjm7nEWijEEo@cluster0.7vjpndu.mongodb.net/coursera-app")
+    await mongoose.connect("");
 app.listen(3000);
 console.log("Listening on port 3000");
 }
